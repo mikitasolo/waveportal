@@ -24,11 +24,29 @@
   margin-top: 16px;
 }
 
+.totalWaves {
+  text-align: center;
+  color: gray;
+  margin-top: 16px;
+}
+
+.input {
+  margin-top: 16px;
+  text-align: center;
+  border-radius: 5px;
+  border-color: #eee;
+}
+
 .waveButton {
   cursor: pointer;
   margin-top: 16px;
   padding: 8px;
   border: 0;
   border-radius: 5px;
-  
+}
+
+.waving {
+  text-align: center;
+  color: cadetblue;
+  margin-top: 16px;
 }
